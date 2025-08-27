@@ -16,171 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I joined the <img src="/files/fzu.png" alt="NUS" width="20" height="20"> [Fuzhou University](https://ccds.fzu.edu.cn/info/1204/11289.htm) Fuzhou University, College of Computer and Data Science, as an Associate Professor in 2025. I received my Ph.D. degree from <img src="/files/fdu.png" alt="NUS" width="20" height="20"> [Fudan University, College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/main.htm) in June 2025, under the supervision of [Prof. Bo Yan](https://dml.fudan.edu.cn/87/22/c35294a427810/page.htm). Prior to that, I obtained his Bachelor's degree in <img src="/files/xmu.png" alt="NUS" width="20" height="20"> [School of Informatics Xiamen University](https://informatics.xmu.edu.cn/) in 2020. 
+I joined the <img src="/files/fzu.png" alt="NUS" width="20" height="20"> [Fuzhou University](https://ccds.fzu.edu.cn/info/1204/11289.htm) Fuzhou University, College of Computer and Data Science, as an Associate Professor in 2025. I received my Ph.D. degree from <img src="/files/fdu.png" alt="NUS" width="20" height="20"> [Fudan University, College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/main.htm) in June 2025, under the supervision of [Prof. Bo Yan](https://dml.fudan.edu.cn/87/22/c35294a427810/page.htm). Prior to that, I obtained my Bachelor's degree in <img src="/files/xmu.png" alt="NUS" width="20" height="20"> [School of Informatics Xiamen University](https://informatics.xmu.edu.cn/) in 2020. 
 
 My primary research interests include low-level vision, multimodal learning, semantic segmentation, and AI for Science. <span style="color:red"> I'm looking for master and undergraduate students with strong self-drive and a deep passion for research.</span>
 
 # 📜 Research Area
-1. AIGC, Image and Video Generation, Talking Face Generation
-2. Multimodal, Direct Preference Optimization (DPO), VQA
-3. Image/Video Enhancement, Restoration and Decomposition 
-4. Deep Learning and its Applications (e.g., Medical Images) 
-
-# 🔬 Project
-<style>
-  .project-table {
-    width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed;
-  }
-  .project-row td { vertical-align: top; }
-  .project-row .thumb {
-    width: 280px;
-    overflow: hidden;
-  }
-  .project-row .info  { padding-left: 12px; }
-
-  /* side by side 图片容器 */
-  .side-by-side {
-    display: flex;
-    gap: 6px;
-    width: 100%;
-  }
-  .side-by-side img {
-    flex: 1;
-    display: block;
-    object-fit: cover;
-    aspect-ratio: 1/1;
-    min-width: 0;
-  }
-
-  /* 标题 & KPI & 链接间距 */
-  .papertitle_just { font-weight: 700; font-size: 1.05em; }
-  .kpis { margin: 4px 0 2px 0; line-height: 1.4; }
-  .info a { margin-right: 8px; }
-
-  /* 移动端：上下排 */
-  @media (max-width: 600px) {
-    .project-row td { display:block; width:100% !important; }
-    .project-row .thumb { width:100% !important; margin-bottom:12px; }
-    .side-by-side { flex-direction: column; }
-    .side-by-side img { width:100%; }
-  }
-</style>
-
-<table class="project-table" cellspacing="0" cellpadding="10">
-  <colgroup>
-    <col style="width:280px">
-    <col>
-  </colgroup>
-  <tbody>
-    <!-- 1 HOK Creator -->
-    <tr class="project-row">
-      <td class="thumb">
-        <div class="side-by-side">
-          <img src="./files/HOK_Creator_before.png" alt="HOK Creator before">
-          <img src="./files/HOK_Creator_after.png"  alt="HOK Creator after">
-        </div>
-      </td>
-      <td class="info">
-        <a href="https://camp.honorofkings.com/studio?creator-tools=%2Fout%2Fhok-tools#/create-tools">
-          <span class="papertitle_just">Honor of Kings (HOK) AIUGC Online Hero Generation</span>
-        </a><br>
-        <em>HOK Creator Studio</em>, 2024.12 – Present <br>
-        <p class="kpis">
-          <strong>44,300+</strong> Generated AI Images ·
-          <strong>22%</strong> Save Rate<br>
-          <strong>11,400+</strong> Active Users<br>
-          <strong>98</strong> Heroes ·
-          <strong>12</strong> Styles ·
-          <strong>13s</strong> Generation Time<br>
-          <a href="https://camp.honorofkings.com/studio?creator-tools=%2Fout%2Fhok-tools#/create-tools">Online Generation</a>
-          |
-          <a href="https://www.bilibili.com/video/BV1vDXhY9EDG/?share_source=copy_web&vd_source=2da049ce4677af057256ebc4a00a8292">Video(CN)</a>
-          |
-          <a href="https://youtu.be/yEi3F9aZaaU?si=2nJls3ACbN7gsabV">Video(EN)</a>
-        </p>
-      </td>
-    </tr>
-    <!-- 2 HOK Poster -->
-    <tr class="project-row">
-      <td class="thumb">
-        <div class="side-by-side">
-          <img src="./files/HOK_Poster_before.png" alt="HOK Poster before">
-          <img src="./files/HOK_Poster_after.png"  alt="HOK Poster after">
-        </div>
-      </td>
-      <td class="info">
-        <a href="https://camp.honorofkings.com/h5/app/index.html#/poster-design/home">
-          <span class="papertitle_just">Honor of Kings (HOK) AIUGC DIY Poster</span>
-        </a><br>
-        <em>HOK Flowborn Dimensional Editor</em>, 2025.06 – Present <br>
-        <p class="kpis">
-          <strong>1,890,000+</strong> Posters ·
-          <strong>1,020,000+</strong> Generated AI Posters (54%)<br>
-          <strong>4,500+</strong> Overseas Buzz ·
-          <strong>3,000+</strong> Domestic Buzz<br>
-          <strong>80%</strong> In-Game Display ·
-          <strong>99%</strong> Positive/Neutral Sentiment<br>
-          <a href="https://camp.honorofkings.com/h5/app/index.html#/poster-design/home">Online Generation</a>
-          |
-          <a href="https://www.bilibili.com/video/BV1rS36zhEqD/?share_source=copy_web&vd_source=2da049ce4677af057256ebc4a00a8292">Video(CN)</a>
-          |
-          <a href="https://youtu.be/BKT8AuaVNB8?si=GqO5OWlHhu5jNIL5">Video(EN)</a>
-        </p>
-      </td>
-    </tr>
-
-    <!-- 3 HOK Conan -->
-    <tr class="project-row">
-      <td class="thumb">
-        <div class="side-by-side">
-          <img src="./files/HOK_Conan_before.png" alt="HOK Conan before">
-          <img src="./files/HOK_Conan_after.png"  alt="HOK Conan after">
-        </div>
-      </td>
-      <td class="info">
-        <a href="https://camp.honorofkings.com/h5/app/index.html#/poster-design/home">
-          <span class="papertitle_just">Honor of Kings (HOK) AIUGC Deduction Poster</span>
-        </a><br>
-        <em>HOK Flowborn Dimensional Editor</em>, 2025.08 – Present <br>
-        <p class="kpis">
-          <a href="https://camp.honorofkings.com/h5/app/index.html#/poster-design/home">Online Generation</a>
-          |
-          <a href="https://www.bilibili.com/video/BV1CpuPzxEGf/?share_source=copy_web&vd_source=2da049ce4677af057256ebc4a00a8292">Video(CN)</a>
-          |
-          <a href="https://youtube.com/shorts/AUhqPP_0NIU?si=jNKspwxoQAlRcjA-">Video(EN)</a>
-        </p>
-      </td>
-    </tr>
-
-    <!-- 4 HOK PGC -->
-    <tr class="project-row">
-      <td class="thumb">
-        <div class="side-by-side">
-          <img src="./files/HOK_PGC_before.png" alt="HOK PGC before">
-          <img src="./files/HOK_PGC_after.png"  alt="HOK PGC after">
-        </div>
-      </td>
-      <td class="info">
-        <a href="https://camp.honorofkings.com/studio?creator-tools=%2Fout%2Fhok-tools#/library?oneLevelTabs=51">
-          <span class="papertitle_just">Honor of Kings (HOK) AIPGC Avatar/Sticker</span>
-        </a><br>
-        <em>HOK </em>, 2024.07 – Present <br>
-        <p class="kpis">
-          <strong>600,000+</strong> Explosure ·
-          <strong>60,000+</strong> Engagement ·
-          <strong>10+</strong> Launch <br>
-          <a href="https://camp.honorofkings.com/studio?creator-tools=%2Fout%2Fhok-tools#/library?oneLevelTabs=51">Avatar Center</a>
-          |
-          <a href="https://www.bilibili.com/video/BV1eHe5zPEVk/?share_source=copy_web&vd_source=2da049ce4677af057256ebc4a00a8292">Video(CN)</a>
-          |
-          <a href="https://youtu.be/vdVQxsIBEes">Video(EN)</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+1. Low-level Vision, Real-world Super Resolution, Video-Frame Interpolation
+2. AIGC, Multimodal,
+3. Segmentation, Semi-supervised Learning
+4. AI for Science (e.g., Medical Images) 
 
 
 # 📝 Publications
@@ -252,6 +96,45 @@ My primary research interests include low-level vision, multimodal learning, sem
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 0 SASR -->
+<tr onmouseout="mm21_SASR_stop()" onmouseover="mm21_SASR_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'mm21_SASR_image'>
+<img src="./files/mm21_SASR_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/mm21_SASR_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function mm21_SASR_start() {
+document.getElementById('mm21_SASR_image').style.opacity = "1";
+}
+function mm21_SASR_stop() {
+document.getElementById('mm21_SASR_image').style.opacity = "0";
+}
+mm21_SASR_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2506.10741">
+    <papertitle_just>Space-Angle Super-Resolution for Multi-View Imagesk</papertitle_just>     
+  </a>
+  <br>
+  Yuqi Sun*, <strong>**Ri Cheng*</strong>, Bo Yan, Shili Zhou
+  <br>
+<em>ACM Multimedia (ACM'MM)</em>, 2021 <br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">arXiv</a>
+|
+<a href="https://github.com/Jonlysun/SASRNet"><img src="https://github.com/Jonlysun/SASRNet?style=social&label=Stars"></a>
+| 
+<a href="./files/mm21_SASR_bibtex.txt">bibtex</a>
+
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
 
 <!-- ###################################################################################################-->
 <!-- Paper 23 PosterCraft -->

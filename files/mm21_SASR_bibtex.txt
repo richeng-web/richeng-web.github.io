@@ -1,0 +1,7 @@
+@inproceedings{sun2021space,
+  title={Space-angle super-resolution for multi-view images},
+  author={Sun, Yuqi and Cheng, Ri and Yan, Bo and Zhou, Shili},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={750--759},
+  year={2021}
+}
