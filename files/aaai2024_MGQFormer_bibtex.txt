@@ -1,0 +1,9 @@
+@inproceedings{zeng2024mgqformer,
+  title={Mgqformer: Mask-guided query-based transformer for image manipulation localization},
+  author={Zeng, Kunlun and Cheng, Ri and Tan, Weimin and Yan, Bo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={6944--6952},
+  year={2024}
+}

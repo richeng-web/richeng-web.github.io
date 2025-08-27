@@ -1,0 +1,9 @@
+@inproceedings{cheng2024context,
+  title={Context-aware iteration policy network for efficient optical flow estimation},
+  author={Cheng, Ri and He, Ruian and Jiang, Xuhao and Zhou, Shili and Tan, Weimin and Yan, Bo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={2},
+  pages={1299--1307},
+  year={2024}
+}
