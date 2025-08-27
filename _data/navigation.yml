@@ -12,17 +12,17 @@ main:
   - title: "Educations"
     url: "/#-educations"
   
-  - title: "Work"
-    url: "/#-internship-and-work-experience"
+  # - title: "Work"
+  #   url: "/#-internship-and-work-experience"
 
   - title: "Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Services"
-    url: "/#-academic-services"
+  # - title: "Services"
+  #   url: "/#-academic-services"
     
-  - title: "Talks"
-    url: "/#-invited-talks"   
+  # - title: "Talks"
+  #   url: "/#-invited-talks"   
 
   # - title: "Teaching"
   #   url: /teaching/    

@@ -16,11 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-I am a Staff Researcher at [Tencent](https://www.tencent.com/en-us/about.html). I earned my PhD degree from <img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> [National University of Singapore (NUS), Department of Electrical and Computer Engineering (ECE)](https://cde.nus.edu.sg/ece/), supervised by [Prof. Robby T. Tan](http://tanrobby.github.io/). 
-I had my research internship in <img src="/files/adobe.png" alt="Adobe" width="20" height="20"> [Adobe](https://research.adobe.com/), mentored by [Prof. Connelly Barnes](http://www.connellybarnes.com/work/) and [Prof. Eli Shechtman](https://scholar.google.com/citations?user=B_FTboQAAAAJ).
-Previously, I completed my M.Sc. degree at the <img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> [National University of Singapore (NUS)](https://cde.nus.edu.sg/ece/); received my B.Eng. degree from the <img src="/files/UESTC.png" alt="UESTC" width="20.842" height="20"> [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+I joined the College of Computer and Data Science at <img src="/files/fzu.png" alt="NUS" width="42.5" height="20"> [Fuzhou University](https://ccds.fzu.edu.cn/info/1204/11289.htm), China, as an Associate Professor in 2025. He received his Ph.D. degree from <img src="/files/fdu.png" alt="NUS" width="42.5" height="20"> [Fudan University, College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/main.htm) in June 2025, under the supervision of [Prof. Bo Yan](https://dml.fudan.edu.cn/87/22/c35294a427810/page.htm). Prior to that, he obtained his Bachelor's degree in <img src="/files/xmu.png" alt="NUS" width="42.5" height="20"> [School of Informatics Xiamen University](https://informatics.xmu.edu.cn/) in 2020. 
 
-My primary research interests include Artificial Intelligence, mainly focusing on AIGC, multimodal learning, and vision-language models (VLMs). <span style="color:red"> I'm looking for self-motivated interns and full-time researchers.</span>
+My primary research interests include low-level vision, multimodal learning, semantic segmentation, and AI for Science. <span style="color:red"> I'm looking for master and undergraduate students with strong self-drive and a deep passion for research.</span>
 
 # 📜 Research Area
 1. AIGC, Image and Video Generation, Talking Face Generation
