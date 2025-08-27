@@ -510,8 +510,8 @@ mm21_SASR_stop()
 </tbody></table>
 
 # 🏫 Educations
-- 09.2020-06.2025: Ph.D. (Computer Science and Technology), <img src="/files/fdu.png" alt="FDU" width="20" height="20"> FDU, China 
-- 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/xmu.png" alt="XMU" width="20" height="20"> XMU, China
+- 09.2020-06.2025: Ph.D. (Computer Science and Technology), <img src="/files/fdu.png" alt="FDU" width="20" height="20"> Fudan University (FDU), China 
+- 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/xmu.png" alt="XMU" width="20" height="20"> Xiamen University (XMU), China
 
 
 # 💻 Academic Services
