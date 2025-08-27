@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Cheng Ri"
   avatar           : "my_pic.png"
-  bio              : "[Curriculum Vitae]"
+  bio              : #"[Curriculum Vitae]"
   location         : "China"
   employer         :
   pubmed           : 
