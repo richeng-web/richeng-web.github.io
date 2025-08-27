@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-Personal Web: https://jinyeying.github.io/
-
+Personal Web: https://richeng-web.github.io/
 <!--
-**jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**richeng-web/richeng-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=jinyeying&style=flat-square)
+![](https://komarev.com/ghpvc/?username=richeng-web&style=flat-square)
