@@ -1,0 +1,9 @@
+@inproceedings{jin2024des3,
+  title={DeS3: Adaptive Attention-Driven Self and Soft Shadow Removal Using ViT Similarity},
+  author={Jin, Yeying and Ye, Wei and Yang, Wenhan and Yuan, Yuan and Tan, Robby T},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={3},
+  pages={2634--2642},
+  year={2024}
+}

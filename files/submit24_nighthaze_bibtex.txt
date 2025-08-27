@@ -1,0 +1,9 @@
+@inproceedings{lin2025nighthaze,
+  title={Nighthaze: Nighttime image dehazing via self-prior learning},
+  author={Lin, Beibei and Jin, Yeying and Wending, Yan and Ye, Wei and Yuan, Yuan and Tan, Robby T},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={5},
+  pages={5209--5217},
+  year={2025}
+}
