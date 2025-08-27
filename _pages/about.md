@@ -116,18 +116,18 @@ mm21_SASR_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2506.10741">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">
     <papertitle_just>Space-Angle Super-Resolution for Multi-View Imagesk</papertitle_just>     
   </a>
   <br>
   Yuqi Sun*, <strong>Ri Cheng*</strong>, Bo Yan†, Shili Zhou
   <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2021 <br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">arXiv</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">Paper</a>
 |
-<a href="https://github.com/Jonlysun/SASRNet"><img src="https://github.com/Jonlysun/SASRNet?style=social&label=Stars"></a>
+<a href="https://github.com/Jonlysun/SASRNet">Github</a>
 | 
-<a href="./files/mm21_SASR_bibtex.txt">bibtex</a>
+<a href="./files/mm21_SASR_bibtex.txt">BibTeX</a>
 
 <p></p>
 </td>
@@ -164,9 +164,9 @@ arxiv25_PosterCraft_stop()
 <em>arxiv</em>, 2025 <br>
 <a href="https://arxiv.org/abs/2506.10741">arXiv</a>
 |
-<a href="https://github.com/Ephemeral182/PosterCraft"><img src="https://img.shields.io/github/stars/Ephemeral182/PosterCraft?style=social&label=Stars"></a>
+<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
 | 
-<a href="./files/arxiv25_PosterCraft_bibtex.txt">bibtex</a>
+<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
 |
 <a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
 |
