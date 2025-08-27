@@ -1,0 +1,7 @@
+@inproceedings{cheng2023uncertainty,
+  title={Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation},
+  author={Cheng, Ri and Jiang, Xuhao and He, Ruian and Zhou, Shili and Tan, Weimin and Yan, Bo},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={1975--1986},
+  year={2023}
+}

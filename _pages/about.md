@@ -96,6 +96,116 @@ My primary research interests include low-level vision, multimodal learning, sem
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
+<!-- ###################################################################################################-->
+<!-- Paper 6 STSSNet -->
+<tr onmouseout="aaai2024_STSSNet_stop()" onmouseover="arxiv25_PosterCraft_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'aaai2024_STSSNet_image'>
+<img src="./files/aaai2024_STSSNet_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/aaai2024_STSSNet_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function aaai2024_STSSNet_start() {
+document.getElementById('aaai2024_STSSNet_image').style.opacity = "1";
+}
+function aaai2024_STSSNet_stop() {
+document.getElementById('aaai2024_STSSNet_image').style.opacity = "0";
+}
+aaai2024_STSSNet_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2312.10890">
+    <papertitle_just>Low-Latency Space-Time Supersampling for Real-Time Rendering</papertitle_just>     
+  </a>
+  <br>
+  Ruian He, Shili Zhou, Yuqi Sun, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan†
+  <br>
+<em>arxiv</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2312.10890">arXiv</a>
+|
+<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
+| 
+<a href="./files/aaai2024_STSSNet_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 5 UGSP -->
+<tr onmouseout="mm23_UGSP_stop()" onmouseover="mm23_UGSP_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'mm23_UGSP_image'>
+<img src="./files/mm23_UGSP_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/mm23_UGSP_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function mm23_UGSP_start() {
+document.getElementById('mm23_UGSP_image').style.opacity = "1";
+}
+function mm23_UGSP_stop() {
+document.getElementById('mm23_UGSP_image').style.opacity = "0";
+}
+mm23_UGSP_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2307.16555">
+    <papertitle_just>Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation.</papertitle_just>     
+  </a>
+  <br>
+  <strong>Ri Cheng</strong>, Xuhao Jiang, Ruian He, Shili Zhou, Weimin Tan, Bo Yan†
+  <br>
+<em>ACM Multimedia (ACM'MM)</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2307.16555">arXiv</a>
+|
+<a href="https://github.com/Orange066/UGSP_Models">Github</a>
+| 
+<a href="./files/mm23_UGSP_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+
+<!-- ###################################################################################################-->
+<!-- Paper 4 PosterCraft -->
+<tr onmouseout="cvprw23_mm_stop()" onmouseover="cvprw23_mm_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'cvprw23_mm_image'>
+<img src="./files/cvprw23_mm_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/cvprw23_mm_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function cvprw23_mm_start() {
+document.getElementById('cvprw23_mm_image').style.opacity = "1";
+}
+function cvprw23_mm_stop() {
+document.getElementById('cvprw23_mm_image').style.opacity = "0";
+}
+cvprw23_mm_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10208894">
+    <papertitle_just>Motion Matters: Difference-based Multi-scale Learning for Infrared UAV Detection</papertitle_just>     
+  </a>
+  <br>
+  Ruian He, Shili Zhou, <strong>Ri Cheng</strong>, Yuqi Sun, Weimin Tan, Bo Yan†
+  <br>
+<em>CVPRW</em>, 2023 <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10208894">Paper</a>
+| 
+<a href="./files/cvprw23_mm_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
 
 <!-- ###################################################################################################-->
 <!-- Paper 3 IBR -->
@@ -121,7 +231,7 @@ cvpr22_IBR_stop()
     <papertitle_just>Learning Robust Image-Based Rendering on Sparse Scene Geometry via Depth Completion</papertitle_just>     
   </a>
   <br>
-  Yuqi Sun, Shili Zhou, <strong>Ri Cheng</strong> Weimin Tan, Bo Yan†, Lang Fu
+  Yuqi Sun, Shili Zhou, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan†, Lang Fu
   <br>
 <em>CVPR</em>, 2022 <br>
 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Learning_Robust_Image-Based_Rendering_on_Sparse_Scene_Geometry_via_Depth_CVPR_2022_paper.html">Paper</a>
@@ -240,58 +350,6 @@ mm21_SASR_stop()
 | 
 <a href="./files/mm21_SASR_bibtex.txt">BibTeX</a>
 
-<p></p>
-</td>
-</tr>
-<!-- ###################################################################################################-->
-
-
-
-
-
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper 23 PosterCraft -->
-<tr onmouseout="arxiv25_PosterCraft_stop()" onmouseover="arxiv25_PosterCraft_start()" >
-<td width="20%">
-<div class="one">
-<div class="two" id = 'arxiv25_PosterCraft_image'>
-<img src="./files/arxiv25_PosterCraft_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
-<img src="./files/arxiv25_PosterCraft_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
-</div>
-<script type="text/javascript">
-function arxiv25_PosterCraft_start() {
-document.getElementById('arxiv25_PosterCraft_image').style.opacity = "1";
-}
-function arxiv25_PosterCraft_stop() {
-document.getElementById('arxiv25_PosterCraft_image').style.opacity = "0";
-}
-arxiv25_PosterCraft_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2506.10741">
-    <papertitle_just>PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</papertitle_just>     
-  </a>
-  <br>
-  Sixiang Chen*, Jianyu Lai*, Jialin Gao*, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, Yunlong Lin, Song Fei, Zhaohu Xing, <strong>Yeying Jin</strong>, Junfeng Luo, Xiaoming Wei, Lei Zhu
-  <br>
-<em>arxiv</em>, 2025 <br>
-<a href="https://arxiv.org/abs/2506.10741">arXiv</a>
-|
-<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
-| 
-<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
-|
-<a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
-|
-<a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft">online demo</a>    
-|
-<a href="https://www.youtube.com/watch?v=92wMU4D7qx0">video</a>
-|
-<a href="https://mp.weixin.qq.com/s/gq6DwohKP0z333OSDRe7Xw">link</a>  
 <p></p>
 </td>
 </tr>

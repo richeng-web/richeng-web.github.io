@@ -1,0 +1,9 @@
+@inproceedings{he2024low,
+  title={Low-latency space-time supersampling for real-time rendering},
+  author={He, Ruian and Zhou, Shili and Sun, Yuqi and Cheng, Ri and Tan, Weimin and Yan, Bo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={3},
+  pages={2103--2111},
+  year={2024}
+}

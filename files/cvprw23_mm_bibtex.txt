@@ -1,0 +1,8 @@
+@inproceedings{he2023motion,
+  title={Motion matters: Difference-based multi-scale learning for infrared UAV detection},
+  author={He, Ruian and Zhou, Shili and Cheng, Ri and Sun, Yuqi and Tan, Weimin and Yan, Bo},
+  booktitle={2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  pages={3006--3015},
+  year={2023},
+  organization={IEEE Computer Society}
+}
