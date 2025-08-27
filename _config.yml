@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIN YEYING"
-name                     : &name "Jin Yeying"
-description              : "PhD at NUS | Tencent"
-URL                      : "https://jinyeying.github.io"
-repository               : "jinyeying.github.io"
+title                    : "RI CHENG"
+name                     : &name "Cheng Ri"
+description              : ""
+URL                      : "https://richeng-web.github.io"
+repository               : "richeng-web.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -82,32 +82,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jin Yeying"
-  avatar           : "my_pic.jpg"
+  name             : "Cheng Ri"
+  avatar           : "my_pic.png"
   bio              : "[Curriculum Vitae]"
-  location         : "Singapore"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Z8PYhA4AAAAJ&hl=en&oi=ao"
-  email            : "jinyeying@u.nus.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=yPrVNlgAAAAJ"
+  email            : "rcheng@fzu.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Yeying_Jin"
-  uri              : "https://www.zhihu.com/people/jinyeying"
+  uri              : #"https://www.zhihu.com/people/jinyeying"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jinyeying"
+  github           : "Orange066"
   google_plus      :
   keybase          :
-  instagram        : "https://www.xiaohongshu.com/user/profile/59827db36a6a69581405263a"
+  instagram        : #"https://www.xiaohongshu.com/user/profile/59827db36a6a69581405263a"
   impactstory      : 
   lastfm           :
-  linkedin         : "jinyeying/"
-  dblp             : "https://dblp.org/pid/315/5270.html"
-  semanticscholar  : "https://www.semanticscholar.org/author/Yeying-Jin/2141507823"
-  orcid            : "https://orcid.org/0000-0001-7818-9534"
+  linkedin         : #"jinyeying/"
+  dblp             : "https://dblp.org/pid/304/1147.html"
+  semanticscholar  : #"https://www.semanticscholar.org/author/Yeying-Jin/2141507823"
+  orcid            : "https://orcid.org/0000-0002-5866-6847"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/208940015"
+  youtube          : #"https://space.bilibili.com/208940015"
   wikipedia        :
 
 
