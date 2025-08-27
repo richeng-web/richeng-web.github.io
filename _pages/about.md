@@ -512,139 +512,15 @@ mm21_SASR_stop()
 </tbody></table>
 
 # 🏫 Educations
-- 01.2020-01.2024: Ph.D. (AI and Deep Learning), <img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> NUS, Singapore (CAP: 4.75/5.00)
-- 08.2017-08.2018: M.S. (Electrical and Computer Engineering), <img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> NUS, Singapore
-- 09.2013-07.2017: B.Eng (Electrical and Computer Engineering), <img src="/files/UESTC.png" alt="UESTC" width="20.842" height="20"> UESTC, China (GPA: 3.93/4.00)
+- 09.2020-06.2025: Ph.D. (Computer Science and Technology), <img src="/files/fdu.png" alt="FDU" width="20" height="20"> FDU, China 
+- 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/XMU.png" alt="XMU" width="20" height="20"> XMU, China
 
-# 👔 Internship and Work Experience
-- 07.2025-Present: Staff Researcher at <img src="/files/tencent.png" alt="Tencent" width="85" height="20"> Singapore, working on AIGC.
-  
-- 01.2024-07.2025: Senior Researcher at <img src="/files/tencent.png" alt="Tencent" width="85" height="20"> Singapore, working on AIGC.
-
-- 06.2023-09.2023: <img src="/files/adobe.png" alt="Adobe" width="20" height="20"> [Adobe Research Intern](https://www.adobe.com/), Creative Intelligence Lab, mentored by [Connelly Barnes](http://www.connellybarnes.com/work/), worked with [Yuqian Zhou](https://yzhouas.github.io/), [Lingzhi Zhang](https://owenzlz.github.io/), [Sohrab Amirghodsi](https://www.linkedin.com/in/sohrab-amirghodsi-a89548a3/), [Eric Kee](https://www.erickee.com/).
-
-- 01.2019-01.2020: Machine Learning Researcher at <img src="/files/biomind.png" alt="Biomind" width="80" height="20"> Singapore, advised by [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/), worked on Biomedical Image Synthesis, Super-resolution, Tumor Segmentation and Classification, expo demo for ["Deep Learning-Based End-to-end Automatic Contouring and Automated Radiation Therapy Treatment Planning System"](https://media.neurips.cc/Conferences/NeurIPS2019/NeurIPS_Expo_Book_2019.pdf).
-
-# 🎖 Honors and Awards
--  2nd Place, [“Yayoi Kusama × Wukong”](https://modelscope.cn/brand/view/game-wan?branch=0&tree=4), ModelScope Wan 2.1 Video Generation Challenge in 2025.
--  Tencent [Knowledge Award](https://zhuanlan.zhihu.com/p/686681635) in 2024.
--  Tencent Excellent R&D Award in 2024.
--  <img src="/files/aisg.png" alt="AISG" width="20" height="20"> [AI Singapore (AISG) Ph.D. Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), Theme: Continuous Learning AI, Self-supervised Learning 
 
 # 💻 Academic Services
-- Organizer: [CVPR 2025 NTIRE](https://www.cvlai.net/ntire/2025/), [the First Challenge on Day and Night Raindrop Removal for Dual-Focused Images](https://lixinustc.github.io/CVPR-NTIRE2025-RainDrop-Competition.github.io/)
-- Reviewer: ACL ARR'25, ICML'25, ICLR'25, NeurIPS'23-25, CVPR'22-25, ICCV'23-25, ECCV'22-24, AAAI'23-25, ACMMM'23-25, TPAMI'23, IJCV'24, TIP'23, MICCAI'25, CVIU'23, TCSVT'23, TVCJ'23, NEUCOM'23, ACCV'22-24, IJCAI'22, IJCNN'21, etc.
-- Teaching Assistant: [EE5731 Visual Computing](https://tanrobby.github.io/teaching/ece_visual/index.html), EE5904 Neural Network (NUS ECE)
 
-# 💬 Invited Talks
-<table>
-  <tr>
-    <th>Topic</th>
-    <th>Host</th>
-    <th>Date</th>
-  </tr>
-  
-  <tr>
-    <td>AI Video Gen | When Wukong meets Yayoi Kusama</td>
-    <td><img src="/files/tencent.png" alt="Tencent" width="85" height="20"> , Singapore </td>
-    <td>05.2025</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://showlab.github.io/omg/">AI × Gaming: Creative Applications of AIGC</a></td>
-    <td><img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> (invited by <a href="https://qhlin.me/">Kevin QH. Lin</a>)</td>
-    <td>04.2025</td>
-  </tr>
-  
-  <tr>
-    <td>AI Generation: Inspiring Game Marketing and Development</td>
-    <td><img src="/files/tencent.png" alt="Tencent" width="85" height="20"> , Singapore </td>
-    <td>02.2025</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://www.bilibili.com/video/BV1p5bFevEgP/?spm_id_from=333.999.0.0&vd_source=8ae1cd92e40b380c0296eb6843da79a4">Raindrop Clarity: Dual-Focused, Day and Night</a></td>
-    <td><img src="/files/AITIME.png" alt="AITIME" width="19.778" height="20"> AI TIME</td>
-    <td>09.2024</td>
-  </tr>
+- Reviewer: CVPR, ICCV, ECCV, AAAI, ACM MM, etc.
+- Teaching Assistant: Linear Algebra at Fudan University
 
-  <tr>
-    <td><a href="https://www.bilibili.com/video/BV1wc411v7zf/?spm_id_from=333.999.0.0&vd_source=8ae1cd92e40b380c0296eb6843da79a4">Shadow Removal using Diffusion Model</a></td>
-    <td><img src="/files/AITIME.png" alt="AITIME" width="19.778" height="20"> AI TIME</td>
-    <td>01.2024</td>
-  </tr>
-
-  <tr>
-    <td>Applications of Generative AI</td>
-    <td><img src="/files/tencent.png" alt="Tencent" width="85" height="20"> , Singapore </td>
-    <td>11.2023</td>
-  </tr>
-  
-  <tr>
-    <td>Visibility Enhancement using Generative Model</td>
-    <td><img src="/files/huawei.png" alt="Huawei" width="19.978" height="20"> Huawei Shanghai HiSilicon</td>
-    <td>07.2023</td>
-  </tr>
-  
-  <tr>
-    <td>NextCam Reading Group: Light-effects Suppression</td>
-    <td><img src="/files/adobe.png" alt="Adobe" width="20" height="20"> Adobe, USA (invited by <a href="https://www.erickee.com/">Eric Kee</a>)</td>
-    <td>07.2023</td>
-  </tr>
-  
-  <tr>
-    <td>Image/Video Restoration and Generation</td>
-    <td><img src="/files/huawei.png" alt="Huawei" width="19.978" height="20"> Huawei Shanghai HiSilicon</td>
-    <td>03.2023</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://www.bilibili.com/video/BV1Ca4y1C7xi/?spm_id_from=333.999.0.0&vd_source=8ae1cd92e40b380c0296eb6843da79a4">Intrinsic Image Decomposition</a></td>
-    <td><img src="/files/AITIME.png" alt="AITIME" width="19.778" height="20"> AI TIME</td>
-    <td>02.2023</td>
-  </tr>
-  
-  <tr>
-    <td>Diffusion Model in Image Processing</td>
-    <td><img src="/files/ByteDance.png" alt="ByteDance" width="100" height="20"> (invited by <a href="https://hanshuyan.github.io/">Hanshu Yan</a>)</td>
-    <td>01.2023</td>
-  </tr>
-  
-  <tr>
-    <td>Visibility Enhancement in Nighttime</td>
-    <td><img src="/files/huawei.png" alt="Huawei" width="19.978" height="20"> Huawei, Singapore</td>
-    <td>12.2022</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://www.bilibili.com/video/BV1Ec411s7at/?spm_id_from=333.999.0.0&vd_source=8ae1cd92e40b380c0296eb6843da79a4">Unsupervised Image Restoration and Generation</a></td>
-    <td><img src="/files/AITIME.png" alt="AITIME" width="19.778" height="20"> AI TIME</td>
-    <td>11.2022</td>
-  </tr>
-  
-  <tr>
-    <th>Poster</th>
-    <th>Venue</th>
-    <th>Date</th>
-  </tr>
-  
-  <tr>
-    <td>Poster Present at <a href="https://valser.org/2024/#/poster">VALSE</a></td>
-    <td><img src="/files/VALSE.png" alt="VALSE" width="23.2" height="20"> Chongqing, China</td>
-    <td>05.2024</td>
-  </tr>
-  
-  <tr>
-    <td>Poster Present at <a href="https://www.comp.nus.edu.sg/~leegh/svd/">Singapore Vision Day</a></td>
-    <td><img src="/files/NUS.png" alt="NUS" width="42.5" height="20"> NUS, Singapore</td>
-    <td>05.2023</td>
-  </tr>
-  
-  <tr>
-    <td>Poster Present at <a href="https://aisingapore.org/ai-governance/aisg-ai-governance-research-symposium-2023/">AI Research Symposium</a></td>
-    <td><img src="/files/aisg.png" alt="AISG" width="20" height="20"> AISG, Singapore</td>
-    <td>01.2023</td>
-  </tr>
 </table>
 
 
