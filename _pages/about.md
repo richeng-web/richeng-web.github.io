@@ -22,9 +22,8 @@ My primary research interests include low-level vision, multimodal learning, sem
 
 # 📜 Research Area
 1. Low-level Vision, Real-world Super Resolution, Video-Frame Interpolation
-2. AIGC, Multimodal,
+2. AIGC, Multimodal, AI for Science
 3. Segmentation, Semi-supervised Learning
-4. AI for Science (e.g., Medical Images) 
 
 
 # 📝 Publications
@@ -121,7 +120,7 @@ mm21_SASR_stop()
     <papertitle_just>Space-Angle Super-Resolution for Multi-View Imagesk</papertitle_just>     
   </a>
   <br>
-  Yuqi Sun*, <strong>**Ri Cheng*</strong>, Bo Yan, Shili Zhou
+  Yuqi Sun*, <strong>Ri Cheng*</strong>, Bo Yan†, Shili Zhou
   <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2021 <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">arXiv</a>
