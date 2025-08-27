@@ -1,0 +1,7 @@
+@inproceedings{sun2022learning,
+  title={Learning robust image-based rendering on sparse scene geometry via depth completion},
+  author={Sun, Yuqi and Zhou, Shili and Cheng, Ri and Tan, Weimin and Yan, Bo and Fu, Lang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7813--7823},
+  year={2022}
+}

@@ -96,6 +96,45 @@ My primary research interests include low-level vision, multimodal learning, sem
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
+
+<!-- ###################################################################################################-->
+<!-- Paper 3 IBR -->
+<tr onmouseout="cvpr22_IBR_stop()" onmouseover="cvpr22_IBR_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'cvpr22_IBR_image'>
+<img src="./files/cvpr22_IBR_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/cvpr22_IBR_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function cvpr22_IBR_start() {
+document.getElementById('cvpr22_IBR_image').style.opacity = "1";
+}
+function cvpr22_IBR_stop() {
+document.getElementById('cvpr22_IBR_image').style.opacity = "0";
+}
+cvpr22_IBR_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Learning_Robust_Image-Based_Rendering_on_Sparse_Scene_Geometry_via_Depth_CVPR_2022_paper.html">
+    <papertitle_just>Learning Robust Image-Based Rendering on Sparse Scene Geometry via Depth Completion</papertitle_just>     
+  </a>
+  <br>
+  Yuqi Sun, Shili Zhou, <strong>Ri Cheng</strong> Weimin Tan, Bo Yan†, Lang Fu
+  <br>
+<em>CVPR</em>, 2022 <br>
+<a href="https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Learning_Robust_Image-Based_Rendering_on_Sparse_Scene_Geometry_via_Depth_CVPR_2022_paper.html">Paper</a>
+|
+<a href="https://github.com/Jonlysun/SIBRNet">Github</a>
+| 
+<a href="./files/cvpr22_IBR_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+
 <!-- ###################################################################################################-->
 <!-- Paper 2 PosterCraft -->
 <tr onmouseout="mm21_MVSRnet_stop()" onmouseover="mm21_MVSRnet_start()" >
@@ -211,50 +250,6 @@ mm21_SASR_stop()
 
 
 
-<!-- ###################################################################################################-->
-<!-- Paper 23 PosterCraft -->
-<tr onmouseout="arxiv25_PosterCraft_stop()" onmouseover="arxiv25_PosterCraft_start()" >
-<td width="20%">
-<div class="one">
-<div class="two" id = 'arxiv25_PosterCraft_image'>
-<img src="./files/arxiv25_PosterCraft_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
-<img src="./files/arxiv25_PosterCraft_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
-</div>
-<script type="text/javascript">
-function arxiv25_PosterCraft_start() {
-document.getElementById('arxiv25_PosterCraft_image').style.opacity = "1";
-}
-function arxiv25_PosterCraft_stop() {
-document.getElementById('arxiv25_PosterCraft_image').style.opacity = "0";
-}
-arxiv25_PosterCraft_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2506.10741">
-    <papertitle_just>PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</papertitle_just>     
-  </a>
-  <br>
-  Sixiang Chen*, Jianyu Lai*, Jialin Gao*, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, Yunlong Lin, Song Fei, Zhaohu Xing, <strong>Yeying Jin</strong>, Junfeng Luo, Xiaoming Wei, Lei Zhu
-  <br>
-<em>arxiv</em>, 2025 <br>
-<a href="https://arxiv.org/abs/2506.10741">arXiv</a>
-|
-<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
-| 
-<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
-|
-<a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
-|
-<a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft">online demo</a>    
-|
-<a href="https://www.youtube.com/watch?v=92wMU4D7qx0">video</a>
-|
-<a href="https://mp.weixin.qq.com/s/gq6DwohKP0z333OSDRe7Xw">link</a>  
-<p></p>
-</td>
-</tr>
-<!-- ###################################################################################################-->
 
 
 <!-- ###################################################################################################-->
