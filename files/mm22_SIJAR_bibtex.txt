@@ -1,0 +1,7 @@
+@inproceedings{jiang2022learning,
+  title={Learning parallax transformer network for stereo image JPEG artifacts removal},
+  author={Jiang, Xuhao and Tan, Weimin and Cheng, Ri and Zhou, Shili and Yan, Bo},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={6072--6082},
+  year={2022}
+}

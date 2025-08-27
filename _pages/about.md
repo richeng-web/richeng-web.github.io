@@ -22,8 +22,8 @@ My primary research interests include low-level vision, multimodal learning, sem
 
 # 📜 Research Area
 1. Low-level Vision, Real-world Super Resolution, Video-Frame Interpolation
-2. AIGC, Multimodal, AI for Science
-3. Segmentation, Semi-supervised Learning
+2. AIGC, Multimodal, Multi-agent
+3. Segmentation, Semi-supervised Learning, AI for Science
 
 
 # 📝 Publications
@@ -133,6 +133,179 @@ mm21_SASR_stop()
 </td>
 </tr>
 <!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 1 PosterCraft -->
+<tr onmouseout="mm22_SIJAR_stop()" onmouseover="mm22_SIJAR_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'mm22_SIJAR_image'>
+<img src="./files/mm22_SIJAR_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/mm22_SIJAR_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function mm22_SIJAR_start() {
+document.getElementById('mm22_SIJAR_image').style.opacity = "1";
+}
+function mm22_SIJAR_stop() {
+document.getElementById('mm22_SIJAR_image').style.opacity = "0";
+}
+mm22_SIJAR_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/pdf/2207.07335">
+    <papertitle_just>Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal</papertitle_just>     
+  </a>
+  <br>
+  Xuhao Jiang, Weimin Tan, <strong>Ri Cheng</strong>, Shili Zhou, Bo Yan†
+  <br>
+<em>ACM Multimedia (ACM'MM)</em>, 2022 <br>
+<a href="https://arxiv.org/pdf/2207.07335">arXiv</a>
+|
+<a href="./files/mm22_SIJAR_bibtex.txt">BibTeX</a> 
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 23 PosterCraft -->
+<tr onmouseout="arxiv25_PosterCraft_stop()" onmouseover="arxiv25_PosterCraft_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'arxiv25_PosterCraft_image'>
+<img src="./files/arxiv25_PosterCraft_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/arxiv25_PosterCraft_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function arxiv25_PosterCraft_start() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "1";
+}
+function arxiv25_PosterCraft_stop() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "0";
+}
+arxiv25_PosterCraft_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2506.10741">
+    <papertitle_just>PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</papertitle_just>     
+  </a>
+  <br>
+  Sixiang Chen*, Jianyu Lai*, Jialin Gao*, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, Yunlong Lin, Song Fei, Zhaohu Xing, <strong>Yeying Jin</strong>, Junfeng Luo, Xiaoming Wei, Lei Zhu
+  <br>
+<em>arxiv</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2506.10741">arXiv</a>
+|
+<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
+| 
+<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
+|
+<a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
+|
+<a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft">online demo</a>    
+|
+<a href="https://www.youtube.com/watch?v=92wMU4D7qx0">video</a>
+|
+<a href="https://mp.weixin.qq.com/s/gq6DwohKP0z333OSDRe7Xw">link</a>  
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+
+<!-- ###################################################################################################-->
+<!-- Paper 23 PosterCraft -->
+<tr onmouseout="arxiv25_PosterCraft_stop()" onmouseover="arxiv25_PosterCraft_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'arxiv25_PosterCraft_image'>
+<img src="./files/arxiv25_PosterCraft_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/arxiv25_PosterCraft_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function arxiv25_PosterCraft_start() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "1";
+}
+function arxiv25_PosterCraft_stop() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "0";
+}
+arxiv25_PosterCraft_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2506.10741">
+    <papertitle_just>PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</papertitle_just>     
+  </a>
+  <br>
+  Sixiang Chen*, Jianyu Lai*, Jialin Gao*, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, Yunlong Lin, Song Fei, Zhaohu Xing, <strong>Yeying Jin</strong>, Junfeng Luo, Xiaoming Wei, Lei Zhu
+  <br>
+<em>arxiv</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2506.10741">arXiv</a>
+|
+<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
+| 
+<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
+|
+<a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
+|
+<a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft">online demo</a>    
+|
+<a href="https://www.youtube.com/watch?v=92wMU4D7qx0">video</a>
+|
+<a href="https://mp.weixin.qq.com/s/gq6DwohKP0z333OSDRe7Xw">link</a>  
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+
+<!-- ###################################################################################################-->
+<!-- Paper 23 PosterCraft -->
+<tr onmouseout="arxiv25_PosterCraft_stop()" onmouseover="arxiv25_PosterCraft_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'arxiv25_PosterCraft_image'>
+<img src="./files/arxiv25_PosterCraft_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/arxiv25_PosterCraft_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function arxiv25_PosterCraft_start() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "1";
+}
+function arxiv25_PosterCraft_stop() {
+document.getElementById('arxiv25_PosterCraft_image').style.opacity = "0";
+}
+arxiv25_PosterCraft_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2506.10741">
+    <papertitle_just>PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</papertitle_just>     
+  </a>
+  <br>
+  Sixiang Chen*, Jianyu Lai*, Jialin Gao*, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, Yunlong Lin, Song Fei, Zhaohu Xing, <strong>Yeying Jin</strong>, Junfeng Luo, Xiaoming Wei, Lei Zhu
+  <br>
+<em>arxiv</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2506.10741">arXiv</a>
+|
+<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
+| 
+<a href="./files/arxiv25_PosterCraft_bibtex.txt">BibTeX</a>
+|
+<a href="https://ephemeral182.github.io/PosterCraft/">project page</a>  
+|
+<a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft">online demo</a>    
+|
+<a href="https://www.youtube.com/watch?v=92wMU4D7qx0">video</a>
+|
+<a href="https://mp.weixin.qq.com/s/gq6DwohKP0z333OSDRe7Xw">link</a>  
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
 
 
 <!-- ###################################################################################################-->
