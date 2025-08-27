@@ -1,0 +1,7 @@
+@inproceedings{cheng2022geometry,
+  title={Geometry-aware reference synthesis for multi-view image super-resolution},
+  author={Cheng, Ri and Sun, Yuqi and Yan, Bo and Tan, Weimin and Ma, Chenxi},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={6083--6093},
+  year={2022}
+}
