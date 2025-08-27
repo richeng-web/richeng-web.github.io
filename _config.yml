@@ -11,7 +11,7 @@ title                    : "RI CHENG"
 name                     : &name "Cheng Ri"
 description              : ""
 URL                      : "https://richeng-web.github.io"
-repository               : "richeng-web.github.io"
+repository               : "richeng-web/richeng-web.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
