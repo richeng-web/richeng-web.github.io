@@ -272,11 +272,9 @@ aaai2024_STSSNet_stop()
   <br>
   Ruian He, Shili Zhou, Yuqi Sun, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan†
   <br>
-<em>arxiv</em>, 2025 <br>
+<em>AAAI</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2312.10890">arXiv</a>
 |
-<a href="https://github.com/Ephemeral182/PosterCraft">Github</a>
-| 
 <a href="./files/aaai2024_STSSNet_bibtex.txt">BibTeX</a>
 <p></p>
 </td>
@@ -513,15 +511,13 @@ mm21_SASR_stop()
 
 # 🏫 Educations
 - 09.2020-06.2025: Ph.D. (Computer Science and Technology), <img src="/files/fdu.png" alt="FDU" width="20" height="20"> FDU, China 
-- 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/XMU.png" alt="XMU" width="20" height="20"> XMU, China
+- 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/xmu.png" alt="XMU" width="20" height="20"> XMU, China
 
 
 # 💻 Academic Services
 
 - Reviewer: CVPR, ICCV, ECCV, AAAI, ACM MM, etc.
-- Teaching Assistant: Linear Algebra at Fudan University
-
-</table>
+- Teaching Assistant: Linear Algebra at Fudan University.
 
 
 
