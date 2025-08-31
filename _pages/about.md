@@ -127,7 +127,7 @@ NP26_EndmemberNet_stop()
 |
 <a href="https://github.com/Orange066/EndmemberNet">Github</a>
 | 
-<a href="./files/NP26_EndmemberNet_bibtex_bibtex.txt">BibTeX</a>
+<a href="./files/NP26_EndmemberNet_bibtex.txt">BibTeX</a>
 |
 <a href="https://news.fudan.edu.cn/2025/0826/c1247a146475/page.htm">Link</a>  
 <p></p>
