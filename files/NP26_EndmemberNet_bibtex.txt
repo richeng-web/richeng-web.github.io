@@ -1,0 +1,8 @@
+@article{zhang2025excitation,
+  title={Excitation-encoded single-emission shortwave infrared lanthanide fluorophore palette for real-time in vivo multispectral imaging},
+  author={Zhang, Lu and Cheng, Ri and He, Zuyang and Mei, Mei and Wu, Bin and Tan, Weimin and Yan, Bo and Wang, Shangfeng and Zhang, Fan},
+  journal={Nature Photonics},
+  pages={1--10},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
