@@ -20,14 +20,14 @@ I joined the <img src="/files/fzu.png" alt="NUS" width="20" height="20"> [Fuzhou
 
 My primary research interests include low-level vision, multimodal learning, semantic segmentation, and AI for Science. <span style="color:red"> I'm looking for master and undergraduate students with strong self-drive and a deep passion for research.</span>
 
-# 馃摐 Research Area
+# 📜 Research Area
 1. Low-level Vision, Real-world Super Resolution, Video-Frame Interpolation
 2. AIGC, Multimodal, Multi-agent
 3. Segmentation, Semi-supervised Learning, AI for Science
 
 
-# 馃摑 Publications
-<p><strong>*</strong>: equal contribution. <strong>&dagger;</strong>: corresponding author.</p>
+# 📝 Publications
+<p><strong>*</strong> equal contribution, <strong>&dagger;</strong> corresponding author</p>
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
@@ -122,7 +122,7 @@ icme26_MHENet_stop()
     <papertitle_just>Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection</papertitle_just>     
   </a>
   <br>
- Yuzhen Niu, Yangqing Wang, <strong>Ri Cheng鈥?/strong>, Fusheng Li, Rongshen Wang, Zhichen Yang
+ Yuzhen Niu, Yangqing Wang, <strong>Ri Cheng†</strong>, Fusheng Li, Rongshen Wang, Zhichen Yang
   <br>
 <em>ICME</em>, 2026 <br>
 <!-- <a href="https://www.nature.com/articles/s41566-025-01736-8">Paper</a>
@@ -163,7 +163,8 @@ NP26_EndmemberNet_stop()
     <papertitle_just>Excitation-encoded single-emission shortwave infrared lanthanide fluorophore palette for real-time in vivo multispectral imaging</papertitle_just>     
   </a>
   <br>
-  Lu Zhang*, <strong>Ri Cheng*</strong>, Zuyang He, Mei Mei, Bin Wu, Weimin Tan鈥? Bo Yan鈥? Shangfeng Wang鈥? Fan Zhang鈥?  <br>
+  Lu Zhang*, <strong>Ri Cheng*</strong>, Zuyang He, Mei Mei, Bin Wu, Weimin Tan†, Bo Yan†, Shangfeng Wang†, Fan Zhang†
+  <br>
 <em>Nature Photonics</em>, 2025 <br>
 <a href="https://www.nature.com/articles/s41566-025-01736-8">Paper</a>
 |
@@ -201,7 +202,8 @@ mm25_sttm_stop()
     <papertitle_just>Efficient Trajectory Space-Time Super-Resolution for Fast Live-cell Imaging</papertitle_just>     
   </a>
   <br>
-  Ruian He, Zixian Zhang, <strong>Ri Cheng</strong>, Weimin Tan鈥? Bo Yan鈥?  <br>
+  Ruian He, Zixian Zhang, <strong>Ri Cheng</strong>, Weimin Tan†, Bo Yan†
+  <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2025 <br>
 <a href="https://dl.acm.org/doi/pdf/10.1145/3746027.3754914">Paper</a>
 |
@@ -235,7 +237,8 @@ aaai25_mdsr_stop()
     <papertitle_just>Efficient Online Training for Zero-Shot Time-Lapse Microscopy Denoising and Super-Resolution</papertitle_just>     
   </a>
   <br>
-  Ruian He, <strong>Ri Cheng</strong>, Xinkai Lyu, Weimin Tan鈥? Bo Yan鈥?  <br>
+  Ruian He, <strong>Ri Cheng</strong>, Xinkai Lyu, Weimin Tan†, Bo Yan†
+  <br>
 <em>AAAI</em>, 2025 <br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32354">Paper</a>
 | 
@@ -270,7 +273,8 @@ aaai24_dynamic_stop()
     <papertitle_just>Context-Aware Iteration Policy Network for Efficient Optical Flow Estimation</papertitle_just>     
   </a>
   <br>
-  <strong>Ri Cheng</strong>, Ruian He, Xuhao Jiang, Shili Zhou, Weimin Tan鈥? Bo Yan鈥?  <br>
+  <strong>Ri Cheng</strong>, Ruian He, Xuhao Jiang, Shili Zhou, Weimin Tan†, Bo Yan†
+  <br>
 <em>AAAI</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2312.07180">arXiv</a>
 |
@@ -307,7 +311,8 @@ aaai2024_MGQFormer_stop()
     <papertitle_just>MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization</papertitle_just>     
   </a>
   <br>
-  Kunlun Zeng*, <strong>Ri Cheng*</strong>, Weimin Tan鈥? Bo Yan鈥?  <br>
+  Kunlun Zeng*, <strong>Ri Cheng*</strong>, Weimin Tan†, Bo Yan†
+  <br>
 <em>AAAI</em>, 2024 <br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28520">Paper</a>
 | 
@@ -341,7 +346,8 @@ aaai2024_STSSNet_stop()
     <papertitle_just>Low-Latency Space-Time Supersampling for Real-Time Rendering</papertitle_just>     
   </a>
   <br>
-  Ruian He, Shili Zhou, Yuqi Sun, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan鈥?  <br>
+  Ruian He, Shili Zhou, Yuqi Sun, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan†
+  <br>
 <em>AAAI</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2312.10890">arXiv</a>
 |
@@ -375,7 +381,8 @@ mm23_UGSP_stop()
     <papertitle_just>Uncertainty-Guided Spatial Pruning Architecture for Efficient Frame Interpolation.</papertitle_just>     
   </a>
   <br>
-  <strong>Ri Cheng</strong>, Xuhao Jiang, Ruian He, Shili Zhou, Weimin Tan, Bo Yan鈥?  <br>
+  <strong>Ri Cheng</strong>, Xuhao Jiang, Ruian He, Shili Zhou, Weimin Tan, Bo Yan†
+  <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2307.16555">arXiv</a>
 |
@@ -412,7 +419,8 @@ cvprw23_mm_stop()
     <papertitle_just>Motion Matters: Difference-based Multi-scale Learning for Infrared UAV Detection</papertitle_just>     
   </a>
   <br>
-  Ruian He, Shili Zhou, <strong>Ri Cheng</strong>, Yuqi Sun, Weimin Tan, Bo Yan鈥?  <br>
+  Ruian He, Shili Zhou, <strong>Ri Cheng</strong>, Yuqi Sun, Weimin Tan, Bo Yan†
+  <br>
 <em>CVPRW</em>, 2023 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10208894">Paper</a>
 | 
@@ -447,7 +455,7 @@ cvpr22_IBR_stop()
     <papertitle_just>Learning Robust Image-Based Rendering on Sparse Scene Geometry via Depth Completion</papertitle_just>     
   </a>
   <br>
-  Yuqi Sun, Shili Zhou, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan鈥? Lang Fu
+  Yuqi Sun, Shili Zhou, <strong>Ri Cheng</strong>, Weimin Tan, Bo Yan†, Lang Fu
   <br>
 <em>CVPR</em>, 2022 <br>
 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Learning_Robust_Image-Based_Rendering_on_Sparse_Scene_Geometry_via_Depth_CVPR_2022_paper.html">Paper</a>
@@ -485,7 +493,7 @@ mm21_MVSRnet_stop()
     <papertitle_just>Geometry-Aware Reference Synthesis for Multi-View Image Super-Resolution</papertitle_just>     
   </a>
   <br>
-  <strong>Ri Cheng</strong>, Yuqi Sun, Bo Yan鈥? Weimin Tan, Chenxi Ma
+  <strong>Ri Cheng</strong>, Yuqi Sun, Bo Yan†, Weimin Tan, Chenxi Ma
   <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2022 <br>
 <a href="https://arxiv.org/abs/2207.08601">arXiv</a>
@@ -522,7 +530,8 @@ mm22_SIJAR_stop()
     <papertitle_just>Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal</papertitle_just>     
   </a>
   <br>
-  Xuhao Jiang, Weimin Tan, <strong>Ri Cheng</strong>, Shili Zhou, Bo Yan鈥?  <br>
+  Xuhao Jiang, Weimin Tan, <strong>Ri Cheng</strong>, Shili Zhou, Bo Yan†
+  <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2022 <br>
 <a href="https://arxiv.org/pdf/2207.07335">arXiv</a>
 |
@@ -556,7 +565,7 @@ mm21_SASR_stop()
     <papertitle_just>Space-Angle Super-Resolution for Multi-View Imagesk</papertitle_just>     
   </a>
   <br>
-  Yuqi Sun*, <strong>Ri Cheng*</strong>, Bo Yan鈥? Shili Zhou
+  Yuqi Sun*, <strong>Ri Cheng*</strong>, Bo Yan†, Shili Zhou
   <br>
 <em>ACM Multimedia (ACM'MM)</em>, 2021 <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475244">Paper</a>
@@ -576,18 +585,15 @@ mm21_SASR_stop()
 <!-- ############################ Put your publications above this! ####################################-->
 </tbody></table>
 
-# 馃彨 Educations
+# 🏫 Educations
 - 09.2020-06.2025: Ph.D. (Computer Science and Technology), <img src="/files/fdu.png" alt="FDU" width="20" height="20"> Fudan University (FDU), China 
 - 09.2016-06.2020: B.Eng (Software Engineering), <img src="/files/xmu.png" alt="XMU" width="20" height="20"> Xiamen University (XMU), China
 
 
-# 馃捇 Academic Services
+# 💻 Academic Services
 
 - Reviewer: CVPR, ICCV, ECCV, AAAI, ACM MM, etc.
 - Teaching Assistant: Linear Algebra at Fudan University.
-
-
-
 
 
 
