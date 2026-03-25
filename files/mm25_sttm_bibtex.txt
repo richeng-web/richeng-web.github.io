@@ -1,0 +1,7 @@
+@inproceedings{he2025efficient,
+  title={Efficient Trajectory Space-Time Super-Resolution for Fast Live-cell Imaging},
+  author={He, Ruian and Zhang, Zixian and Cheng, Ri and Tan, Weimin and Yan, Bo},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={171--179},
+  year={2025}
+}

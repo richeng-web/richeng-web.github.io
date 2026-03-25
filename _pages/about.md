@@ -96,8 +96,50 @@ My primary research interests include low-level vision, multimodal learning, sem
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
+
 <!-- ###################################################################################################-->
-<!-- Paper 10 EndmemberNet -->
+<!-- Paper 12 MHENet -->
+<tr onmouseout="icme26_MHENet_stop()" onmouseover="icme26_MHENet_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'icme26_MHENet_image'>
+<img src="./files/icme26_MHENet_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/icme26_MHENet_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function icme26_MHENet_start() {
+document.getElementById('icme26_MHENet_image').style.opacity = "1";
+}
+function icme26_MHENet_stop() {
+document.getElementById('icme26_MHENet_image').style.opacity = "0";
+}
+icme26_MHENet_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection</papertitle_just>     
+  </a>
+  <br>
+ Yuzhen Niu, Yangqing Wang, <strong>Ri Cheng†</strong>, Fusheng Li, Rongshen Wang, Zhichen Yang
+  <br>
+<em>ICME</em>, 2026 <br>
+<!-- <a href="https://www.nature.com/articles/s41566-025-01736-8">Paper</a>
+|
+<a href="https://github.com/Orange066/EndmemberNet">Github</a>
+| 
+<a href="./files/icme26_MHENet_bibtex.txt">BibTeX</a>
+|
+<a href="https://news.fudan.edu.cn/2025/0826/c1247a146475/page.htm">Link</a>   -->
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+
+
+<!-- ###################################################################################################-->
+<!-- Paper 11 EndmemberNet -->
 <tr onmouseout="NP26_EndmemberNet_stop()" onmouseover="NP26_EndmemberNet_start()" >
 <td width="20%">
 <div class="one">
@@ -135,7 +177,40 @@ NP26_EndmemberNet_stop()
 </tr>
 <!-- ###################################################################################################-->
 
-
+<!-- ###################################################################################################-->
+<!-- Paper 10 sttm -->
+<tr onmouseout="mm25_sttm_stop()" onmouseover="mm25_sttm_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'mm25_sttm_image'>
+<img src="./files/mm25_sttm_after.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;"></div>
+<img src="./files/mm25_sttm_before.png" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;">
+</div>
+<script type="text/javascript">
+function mm25_sttm_start() {
+document.getElementById('mm25_sttm_image').style.opacity = "1";
+}
+function mm25_sttm_stop() {
+document.getElementById('mm25_sttm_image').style.opacity = "0";
+}
+mm25_sttm_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3746027.3754914">
+    <papertitle_just>Efficient Trajectory Space-Time Super-Resolution for Fast Live-cell Imaging</papertitle_just>     
+  </a>
+  <br>
+  Ruian He, Zixian Zhang, <strong>Ri Cheng</strong>, Weimin Tan†, Bo Yan†
+  <br>
+<em>ACM Multimedia (ACM'MM)</em>, 2025 <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3746027.3754914">Paper</a>
+|
+<a href="./files/mm25_sttm_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
 
 <!-- ###################################################################################################-->
 <!-- Paper 9 mdsr -->
