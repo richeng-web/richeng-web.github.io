@@ -118,20 +118,18 @@ icme26_MHENet_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://arxiv.org/abs/2604.02935">
     <papertitle_just>Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection</papertitle_just>     
   </a>
   <br>
  Yuzhen Niu, Yangqing Wang, <strong>Ri Cheng†</strong>, Fusheng Li, Rongshen Wang, Zhichen Yang
   <br>
 <em>ICME</em>, 2026 <br>
-<!-- <a href="https://www.nature.com/articles/s41566-025-01736-8">Paper</a>
+<a href="https://arxiv.org/abs/2604.02935">Paper</a>
 |
-<a href="https://github.com/Orange066/EndmemberNet">Github</a>
-| 
-<a href="./files/icme26_MHENet_bibtex.txt">BibTeX</a>
-|
-<a href="https://news.fudan.edu.cn/2025/0826/c1247a146475/page.htm">Link</a>   -->
+<a href="https://github.com/afdsgh/MHENet">Github</a>
+<!-- | 
+<a href="./files/icme26_MHENet_bibtex.txt">BibTeX</a> -->
 <p></p>
 </td>
 </tr>
