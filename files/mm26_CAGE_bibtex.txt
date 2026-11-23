@@ -1,0 +1,7 @@
+@inproceedings{yang2026cage,
+  title={Towards Color-Faithful Low-Light Image Enhancement via Adaptive Color Debiasing and Saturation Rectification},
+  author={Yang, Zhichen and Xu, Rui and Niu, Yuzhen and Li, Fusheng and Da, Hui and Cheng, Ri},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  year={2026},
+  doi={10.1145/3767308.3835237}
+}

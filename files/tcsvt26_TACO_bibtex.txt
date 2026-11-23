@@ -1,0 +1,7 @@
+@article{niu2026textpoint,
+  title={Text-Point Collaborative Pseudo-Labeling with Boundary-Semantic Guidance for Weakly Supervised Camouflaged Object Detection},
+  author={Niu, Yuzhen and Wang, Rongshen and Cheng, Ri and Wang, Yangqing},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
+  url={https://ieeexplore.ieee.org/document/11743939}
+}

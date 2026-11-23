@@ -91,11 +91,74 @@ My primary research interests include low-level vision, multimodal learning, sem
     span.highlight {
         background-color: #ffffd0;
     }
+    .publication-comparison .two {
+        opacity: 0;
+    }
+    .publication-comparison:hover .two,
+    .publication-comparison:focus-within .two {
+        opacity: 1;
+    }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 14 TACO -->
+<tr>
+<td width="20%">
+<div class="one">
+<a href="./files/tcsvt26_TACO_fig1.png" aria-label="Open TACO Figure 1 at full size">
+<img src="./files/tcsvt26_TACO_fig1.png" width="160" height="160" style="width: 100%; height: 100%; object-fit: contain;" alt="TACO Figure 1 comparing input images, ground truth, point cues, text cues, and TACO pseudo-masks">
+</a>
+</div>
+</td>
+<td valign="top" width="80%">
+  <a href="https://ieeexplore.ieee.org/document/11743939">
+    <papertitle_just>Text-Point Collaborative Pseudo-Labeling with Boundary-Semantic Guidance for Weakly Supervised Camouflaged Object Detection</papertitle_just>
+  </a>
+  <br>
+  Yuzhen Niu, Rongshen Wang, <strong>Ri Cheng†</strong>, Yangqing Wang
+  <br>
+<em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2026 <br>
+<a href="https://ieeexplore.ieee.org/document/11743939">Paper</a>
+|
+<a href="./files/tcsvt26_TACO_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<!-- Paper 13 CAGE -->
+<tr class="publication-comparison">
+<td width="20%">
+<div class="one">
+<div class="two">
+<img src="./files/mm26_CAGE_after.png" width="160" height="160" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;" alt="Bicycle scene after enhancement with CAGE-DarkIR">
+</div>
+<img src="./files/mm26_CAGE_before.png" width="160" height="160" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;" alt="Original low-light photograph of parked bicycles">
+</div>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2608.10512">
+    <papertitle_just>Towards Color-Faithful Low-Light Image Enhancement via Adaptive Color Debiasing and Saturation Rectification</papertitle_just>
+  </a>
+  <br>
+  Zhichen Yang, Rui Xu, Yuzhen Niu†, Fusheng Li, Hui Da, <strong>Ri Cheng</strong>
+  <br>
+<em>ACM Multimedia (ACM'MM)</em>, 2026 <br>
+<a href="https://arxiv.org/abs/2608.10512">arXiv</a>
+|
+<a href="https://github.com/Yangzhichen763/CAGE">Github</a>
+|
+<a href="./files/mm26_CAGE_bibtex.txt">BibTeX</a>
+<p></p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
 
 
 <!-- ###################################################################################################-->
